@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(45deg, #ff416c, #ff4b2b);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+.compatiblity-score {
+    margin-bottom: 10px;
+}
